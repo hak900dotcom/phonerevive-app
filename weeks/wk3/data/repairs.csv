@@ -1,0 +1,2 @@
+repair_id,created_at,name,email,phone,model,problem,details,method,slot,quote,status
+R-1001,2026-10-20T15:04:00.000Z,Sam Lee,sam@example.com,206-555-0142,iPhone 12,Screen,"Dropped it, top half of the screen does not respond to touch.",Drop off,2026-10-21 10:00,158.00,Repairing

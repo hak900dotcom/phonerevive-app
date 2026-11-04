@@ -1,0 +1,5 @@
+repair_id,status,note,at
+R-1001,Booked,,2026-10-20T15:04:00.000Z
+R-1001,Received,Phone dropped off at the counter.,2026-10-21T17:10:00.000Z
+R-1001,Diagnosing,,2026-10-21T18:30:00.000Z
+R-1001,Repairing,"Screen is cracked under the glass. New screen ordered, fitting it today.",2026-10-22T16:45:00.000Z
